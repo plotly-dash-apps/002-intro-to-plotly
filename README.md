@@ -11,4 +11,4 @@ All graphs should now display correctly.
 
 Read this blog post: https://austinlasseter.medium.com/how-to-display-plotly-visualizations-in-amazon-sagemaker-studio-lab-ec9a86c319bb
 
-Source: https://github.com/Dangee/aws-sagemaker-plotly-setup
+![image](https://user-images.githubusercontent.com/31504432/173428772-1d1bb976-c3de-444e-acd1-b10ff4f68ca7.png)
