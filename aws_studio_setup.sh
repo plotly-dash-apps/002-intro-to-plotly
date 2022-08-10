@@ -1,5 +1,6 @@
 #! /bin/bash
 
+conda update -n base conda
 conda install -c conda-forge nodejs -y
 conda install -c conda-forge plotly -y
 conda install -c conda-forge dash -y
